@@ -27,4 +27,5 @@ Building my cybersecurity portfolio and developing practical SOC skills.
 ## Git Practice
 
 Learning Git workflows through hands-on practice.
-My first Git workflow.
+- Branching and pull request workflow
+- My first Git workflow.

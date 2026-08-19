@@ -23,3 +23,7 @@ Building my cybersecurity portfolio and developing practical SOC skills.
 
 - LinkedIn: [Coming soon]
 - Portfolio: [Coming soon]
+
+## Git Practice
+
+Learning Git workflows through hands-on practice.

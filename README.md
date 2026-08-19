@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am learning Git and GitHub.
 
 <!--
 **ahmed-alansare/ahmed-alansare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

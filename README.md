@@ -1,16 +1,25 @@
-## Hi there 👋 I am learning Git and GitHub.
+# Ahmed Alansare
 
-<!--
-**ahmed-alansare/ahmed-alansare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SOC Analyst | Detection Engineering | Blue Team
 
-Here are some ideas to get you started:
+## Now
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building my cybersecurity portfolio and developing practical SOC skills.
+
+## Learning
+
+- Git & GitHub
+- SOC Analysis
+- Detection Engineering
+- Blue Team
+
+## Goals
+
+- Build practical SOC projects
+- Develop strong investigation skills
+- Build a professional cybersecurity portfolio
+
+## Connect
+
+- LinkedIn: [Coming soon]
+- Portfolio: [Coming soon]
